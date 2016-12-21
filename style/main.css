@@ -1,0 +1,8 @@
+.bg-danger, .bg-success {
+	padding: 0 5px;
+}
+
+a {
+	color: #1a54b2;
+	text-decoration: none;
+}
